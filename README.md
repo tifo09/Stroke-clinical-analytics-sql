@@ -7,10 +7,10 @@ In clinical practice, early detection of stroke risk factors is critical to prev
 **The Solution**
 That project designs a **Clinical Database Pipeline Framework** that utilizes a **PostgreSql** to analyse, clean and segment **+5,000 patients records** .standardized clinical classifications were engineered directly database-side using optimized **Sql Views** and then connected to an interactive **Power BI Dashboard** to visualize multi-dimensional patient risk factors.
 
-##Teck Stack & decisions :
-**Database Engine:**PostgreSql(`pgAdmin`)
-**Database Strategy:**Server-side View Optimization, Clinical Classifications, Data Quality Auditing
-**BI Visualization:**Power BI Desktop (Interactive Clinical Dashboard)
+## Teck Stack & decisions :
+**Database Engine:** PostgreSql(`pgAdmin`)
+**Database Strategy:** Server-side View Optimization, Clinical Classifications, Data Quality Auditing
+**BI Visualization:** Power BI Desktop (Interactive Clinical Dashboard)
 
 ### Key SQl Pipeline Engineering:
 ### 1. Data Quality & Profiling Audit
