@@ -38,4 +38,5 @@ The engineered database views are connected directly to Power BI to deliver a co
 
 ### 3. Clinician Filter & Triage Panel
 *   **Demographic Filtering:** Dynamic slicers for `work_type` and `age_group` allowing clinicians to instantly isolate specific patient cohorts during clinical audits.
- 
+
+ <img width="1313" height="734" alt="Screenshot 2026-07-16 193328" src="https://github.com/user-attachments/assets/fa240cdf-77f1-4b94-acae-d601e5f5617a" />
